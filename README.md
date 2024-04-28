@@ -1,2 +1,4 @@
 # curso_cpp
-Curso em C++ 2024
+Curso em C++ 2024.
+
+Iniciado em abril
